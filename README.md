@@ -1,1 +1,2 @@
-My first readme indeed
+MY FIRST DIRECTORY
+my edited first directory
